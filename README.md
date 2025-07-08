@@ -9,7 +9,7 @@ Analyze historical sales and pricing data, identify revenue leakage, and recomme
 - **EDA & Visualization** of menu performance  
 - **Price Elasticity Modeling**   
 - **Profit Forecasting & Scenario Analysis**  
-- **Interactive Streamlit Dashboard** for insights  
+- **Interactive PowerBI Dashboard** for insights  
 
 ##  Tech Stack
 | Category      | Tools / Libraries            |
@@ -22,9 +22,7 @@ Analyze historical sales and pricing data, identify revenue leakage, and recomme
 
 
 ## ✅ Future Work
-- Add NLP‑based sentiment from customer reviews  
-- Reinforcement learning for dynamic pricing  
-- SaaS deployment pipeline  
+ Enhancing with automated competitor tracking via web scraping and predictive demand alerts.
 
 ## 📄 License
 MIT
